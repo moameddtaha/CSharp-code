@@ -1,0 +1,14 @@
+F:\Mohamed Taha\Code\C#\ATM PIN Validation\ATM PIN Validation\obj\Debug\net7.0\ATM PIN Validation.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mohamed Taha\Code\C#\ATM PIN Validation\ATM PIN Validation\obj\Debug\net7.0\ATM PIN Validation.AssemblyInfoInputs.cache
+F:\Mohamed Taha\Code\C#\ATM PIN Validation\ATM PIN Validation\obj\Debug\net7.0\ATM PIN Validation.AssemblyInfo.cs
+F:\Mohamed Taha\Code\C#\ATM PIN Validation\ATM PIN Validation\obj\Debug\net7.0\ATM PIN Validation.csproj.CoreCompileInputs.cache
+F:\Mohamed Taha\Code\C#\ATM PIN Validation\ATM PIN Validation\bin\Debug\net7.0\ATM PIN Validation.exe
+F:\Mohamed Taha\Code\C#\ATM PIN Validation\ATM PIN Validation\bin\Debug\net7.0\ATM PIN Validation.deps.json
+F:\Mohamed Taha\Code\C#\ATM PIN Validation\ATM PIN Validation\bin\Debug\net7.0\ATM PIN Validation.runtimeconfig.json
+F:\Mohamed Taha\Code\C#\ATM PIN Validation\ATM PIN Validation\bin\Debug\net7.0\ATM PIN Validation.dll
+F:\Mohamed Taha\Code\C#\ATM PIN Validation\ATM PIN Validation\bin\Debug\net7.0\ATM PIN Validation.pdb
+F:\Mohamed Taha\Code\C#\ATM PIN Validation\ATM PIN Validation\obj\Debug\net7.0\ATM PIN Validation.dll
+F:\Mohamed Taha\Code\C#\ATM PIN Validation\ATM PIN Validation\obj\Debug\net7.0\refint\ATM PIN Validation.dll
+F:\Mohamed Taha\Code\C#\ATM PIN Validation\ATM PIN Validation\obj\Debug\net7.0\ATM PIN Validation.pdb
+F:\Mohamed Taha\Code\C#\ATM PIN Validation\ATM PIN Validation\obj\Debug\net7.0\ATM PIN Validation.genruntimeconfig.cache
+F:\Mohamed Taha\Code\C#\ATM PIN Validation\ATM PIN Validation\obj\Debug\net7.0\ref\ATM PIN Validation.dll
