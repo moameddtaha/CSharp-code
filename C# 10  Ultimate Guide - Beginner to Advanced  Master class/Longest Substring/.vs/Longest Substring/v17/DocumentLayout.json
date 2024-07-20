@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Mohamed Taha\\Code\\C#\\C# 10  Ultimate Guide - Beginner to Advanced  Master class\\Longest Substring 2\\Longest Substring\\",
+  "WorkspaceRootPath": "D:\\Mohamed Taha\\Code\\C#\\C# 10  Ultimate Guide - Beginner to Advanced  Master class\\Longest Substring\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34F60D57-F965-45B5-977E-A5E7828DFE54}|Longest Substring\\Longest Substring.csproj|d:\\mohamed taha\\code\\c#\\c# 10  ultimate guide - beginner to advanced  master class\\longest substring 2\\longest substring\\longest substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34F60D57-F965-45B5-977E-A5E7828DFE54}|Longest Substring\\Longest Substring.csproj|solutionrelative:longest substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58E3A8E7-2039-42EB-A582-A9A54DECD737}|Longest Substring\\Longest Substring.csproj|d:\\mohamed taha\\code\\c#\\c# 10  ultimate guide - beginner to advanced  master class\\longest substring\\longest substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E3A8E7-2039-42EB-A582-A9A54DECD737}|Longest Substring\\Longest Substring.csproj|solutionrelative:longest substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Mohamed Taha\\Code\\C#\\C# 10  Ultimate Guide - Beginner to Advanced  Master class\\Longest Substring 2\\Longest Substring\\Longest Substring\\Program.cs",
+              "DocumentMoniker": "D:\\Mohamed Taha\\Code\\C#\\C# 10  Ultimate Guide - Beginner to Advanced  Master class\\Longest Substring\\Longest Substring\\Program.cs",
               "RelativeDocumentMoniker": "Longest Substring\\Program.cs",
-              "ToolTip": "D:\\Mohamed Taha\\Code\\C#\\C# 10  Ultimate Guide - Beginner to Advanced  Master class\\Longest Substring 2\\Longest Substring\\Longest Substring\\Program.cs",
+              "ToolTip": "D:\\Mohamed Taha\\Code\\C#\\C# 10  Ultimate Guide - Beginner to Advanced  Master class\\Longest Substring\\Longest Substring\\Program.cs",
               "RelativeToolTip": "Longest Substring\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBAAAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T19:05:04.156Z",
+              "WhenOpened": "2024-07-20T19:19:53.424Z",
               "EditorCaption": ""
             }
           ]

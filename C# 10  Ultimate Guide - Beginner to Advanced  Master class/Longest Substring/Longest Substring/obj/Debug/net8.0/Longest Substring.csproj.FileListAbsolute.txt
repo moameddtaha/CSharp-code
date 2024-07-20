@@ -1,30 +1,15 @@
-D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring 2\Longest Substring\Longest Substring\bin\Debug\net8.0\Longest Substring.exe
-D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring 2\Longest Substring\Longest Substring\bin\Debug\net8.0\Longest Substring.deps.json
-D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring 2\Longest Substring\Longest Substring\bin\Debug\net8.0\Longest Substring.runtimeconfig.json
-D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring 2\Longest Substring\Longest Substring\bin\Debug\net8.0\Longest Substring.dll
-D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring 2\Longest Substring\Longest Substring\bin\Debug\net8.0\Longest Substring.pdb
-D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring 2\Longest Substring\Longest Substring\obj\Debug\net8.0\Longest Substring.GeneratedMSBuildEditorConfig.editorconfig
-D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring 2\Longest Substring\Longest Substring\obj\Debug\net8.0\Longest Substring.AssemblyInfoInputs.cache
-D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring 2\Longest Substring\Longest Substring\obj\Debug\net8.0\Longest Substring.AssemblyInfo.cs
-D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring 2\Longest Substring\Longest Substring\obj\Debug\net8.0\Longest Substring.csproj.CoreCompileInputs.cache
-D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring 2\Longest Substring\Longest Substring\obj\Debug\net8.0\Longest Substring.sourcelink.json
-D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring 2\Longest Substring\Longest Substring\obj\Debug\net8.0\Longest Substring.dll
-D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring 2\Longest Substring\Longest Substring\obj\Debug\net8.0\refint\Longest Substring.dll
-D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring 2\Longest Substring\Longest Substring\obj\Debug\net8.0\Longest Substring.pdb
-D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring 2\Longest Substring\Longest Substring\obj\Debug\net8.0\Longest Substring.genruntimeconfig.cache
-D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring 2\Longest Substring\Longest Substring\obj\Debug\net8.0\ref\Longest Substring.dll
-D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring\Longest Substring\Longest Substring\bin\Debug\net8.0\Longest Substring.exe
-D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring\Longest Substring\Longest Substring\bin\Debug\net8.0\Longest Substring.deps.json
-D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring\Longest Substring\Longest Substring\bin\Debug\net8.0\Longest Substring.runtimeconfig.json
-D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring\Longest Substring\Longest Substring\bin\Debug\net8.0\Longest Substring.dll
-D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring\Longest Substring\Longest Substring\bin\Debug\net8.0\Longest Substring.pdb
-D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring\Longest Substring\Longest Substring\obj\Debug\net8.0\Longest Substring.GeneratedMSBuildEditorConfig.editorconfig
-D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring\Longest Substring\Longest Substring\obj\Debug\net8.0\Longest Substring.AssemblyInfoInputs.cache
-D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring\Longest Substring\Longest Substring\obj\Debug\net8.0\Longest Substring.AssemblyInfo.cs
-D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring\Longest Substring\Longest Substring\obj\Debug\net8.0\Longest Substring.csproj.CoreCompileInputs.cache
-D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring\Longest Substring\Longest Substring\obj\Debug\net8.0\Longest Substring.sourcelink.json
-D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring\Longest Substring\Longest Substring\obj\Debug\net8.0\Longest Substring.dll
-D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring\Longest Substring\Longest Substring\obj\Debug\net8.0\refint\Longest Substring.dll
-D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring\Longest Substring\Longest Substring\obj\Debug\net8.0\Longest Substring.pdb
-D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring\Longest Substring\Longest Substring\obj\Debug\net8.0\Longest Substring.genruntimeconfig.cache
-D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring\Longest Substring\Longest Substring\obj\Debug\net8.0\ref\Longest Substring.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring\Longest Substring\bin\Debug\net8.0\Longest Substring.exe
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring\Longest Substring\bin\Debug\net8.0\Longest Substring.deps.json
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring\Longest Substring\bin\Debug\net8.0\Longest Substring.runtimeconfig.json
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring\Longest Substring\bin\Debug\net8.0\Longest Substring.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring\Longest Substring\bin\Debug\net8.0\Longest Substring.pdb
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring\Longest Substring\obj\Debug\net8.0\Longest Substring.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring\Longest Substring\obj\Debug\net8.0\Longest Substring.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring\Longest Substring\obj\Debug\net8.0\Longest Substring.AssemblyInfo.cs
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring\Longest Substring\obj\Debug\net8.0\Longest Substring.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring\Longest Substring\obj\Debug\net8.0\Longest Substring.sourcelink.json
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring\Longest Substring\obj\Debug\net8.0\Longest Substring.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring\Longest Substring\obj\Debug\net8.0\refint\Longest Substring.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring\Longest Substring\obj\Debug\net8.0\Longest Substring.pdb
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring\Longest Substring\obj\Debug\net8.0\Longest Substring.genruntimeconfig.cache
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Longest Substring\Longest Substring\obj\Debug\net8.0\ref\Longest Substring.dll

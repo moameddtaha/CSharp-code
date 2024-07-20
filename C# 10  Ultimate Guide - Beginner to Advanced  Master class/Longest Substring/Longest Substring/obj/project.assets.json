@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Mohamed Taha\\Code\\C#\\C# 10  Ultimate Guide - Beginner to Advanced  Master class\\Longest Substring\\Longest Substring\\Longest Substring\\Longest Substring.csproj",
+      "projectUniqueName": "D:\\Mohamed Taha\\Code\\C#\\C# 10  Ultimate Guide - Beginner to Advanced  Master class\\Longest Substring\\Longest Substring\\Longest Substring.csproj",
       "projectName": "Longest Substring",
-      "projectPath": "D:\\Mohamed Taha\\Code\\C#\\C# 10  Ultimate Guide - Beginner to Advanced  Master class\\Longest Substring\\Longest Substring\\Longest Substring\\Longest Substring.csproj",
+      "projectPath": "D:\\Mohamed Taha\\Code\\C#\\C# 10  Ultimate Guide - Beginner to Advanced  Master class\\Longest Substring\\Longest Substring\\Longest Substring.csproj",
       "packagesPath": "C:\\Users\\mtaha\\.nuget\\packages\\",
-      "outputPath": "D:\\Mohamed Taha\\Code\\C#\\C# 10  Ultimate Guide - Beginner to Advanced  Master class\\Longest Substring\\Longest Substring\\Longest Substring\\obj\\",
+      "outputPath": "D:\\Mohamed Taha\\Code\\C#\\C# 10  Ultimate Guide - Beginner to Advanced  Master class\\Longest Substring\\Longest Substring\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mtaha\\AppData\\Roaming\\NuGet\\NuGet.Config",
