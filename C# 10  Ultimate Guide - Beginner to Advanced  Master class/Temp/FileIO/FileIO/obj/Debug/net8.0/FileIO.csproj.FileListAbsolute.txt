@@ -1,0 +1,15 @@
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\FileIO\FileIO\bin\Debug\net8.0\FileIO.exe
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\FileIO\FileIO\bin\Debug\net8.0\FileIO.deps.json
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\FileIO\FileIO\bin\Debug\net8.0\FileIO.runtimeconfig.json
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\FileIO\FileIO\bin\Debug\net8.0\FileIO.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\FileIO\FileIO\bin\Debug\net8.0\FileIO.pdb
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\FileIO\FileIO\obj\Debug\net8.0\FileIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\FileIO\FileIO\obj\Debug\net8.0\FileIO.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\FileIO\FileIO\obj\Debug\net8.0\FileIO.AssemblyInfo.cs
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\FileIO\FileIO\obj\Debug\net8.0\FileIO.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\FileIO\FileIO\obj\Debug\net8.0\FileIO.sourcelink.json
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\FileIO\FileIO\obj\Debug\net8.0\FileIO.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\FileIO\FileIO\obj\Debug\net8.0\refint\FileIO.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\FileIO\FileIO\obj\Debug\net8.0\FileIO.pdb
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\FileIO\FileIO\obj\Debug\net8.0\FileIO.genruntimeconfig.cache
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\FileIO\FileIO\obj\Debug\net8.0\ref\FileIO.dll

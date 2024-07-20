@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mohamed Taha\\Code\\C#\\C# 10  Ultimate Guide - Beginner to Advanced  Master class\\Temp\\FileIO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{235D9B6B-10C5-414E-9944-942C51D5F16B}|FileIO\\FileIO.csproj|d:\\mohamed taha\\code\\c#\\c# 10  ultimate guide - beginner to advanced  master class\\temp\\fileio\\fileio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235D9B6B-10C5-414E-9944-942C51D5F16B}|FileIO\\FileIO.csproj|solutionrelative:fileio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235D9B6B-10C5-414E-9944-942C51D5F16B}|FileIO\\FileIO.csproj|d:\\mohamed taha\\code\\c#\\c# 10  ultimate guide - beginner to advanced  master class\\temp\\fileio\\fileio\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235D9B6B-10C5-414E-9944-942C51D5F16B}|FileIO\\FileIO.csproj|solutionrelative:fileio\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235D9B6B-10C5-414E-9944-942C51D5F16B}|FileIO\\FileIO.csproj|d:\\mohamed taha\\code\\c#\\c# 10  ultimate guide - beginner to advanced  master class\\temp\\fileio\\fileio\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235D9B6B-10C5-414E-9944-942C51D5F16B}|FileIO\\FileIO.csproj|solutionrelative:fileio\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mohamed Taha\\Code\\C#\\C# 10  Ultimate Guide - Beginner to Advanced  Master class\\Temp\\FileIO\\FileIO\\Program.cs",
+              "RelativeDocumentMoniker": "FileIO\\Program.cs",
+              "ToolTip": "D:\\Mohamed Taha\\Code\\C#\\C# 10  Ultimate Guide - Beginner to Advanced  Master class\\Temp\\FileIO\\FileIO\\Program.cs",
+              "RelativeToolTip": "FileIO\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T13:59:05.963Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileWriter.cs",
+              "DocumentMoniker": "D:\\Mohamed Taha\\Code\\C#\\C# 10  Ultimate Guide - Beginner to Advanced  Master class\\Temp\\FileIO\\FileIO\\FileWriter.cs",
+              "RelativeDocumentMoniker": "FileIO\\FileWriter.cs",
+              "ToolTip": "D:\\Mohamed Taha\\Code\\C#\\C# 10  Ultimate Guide - Beginner to Advanced  Master class\\Temp\\FileIO\\FileIO\\FileWriter.cs",
+              "RelativeToolTip": "FileIO\\FileWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:03:00.302Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileReader.cs",
+              "DocumentMoniker": "D:\\Mohamed Taha\\Code\\C#\\C# 10  Ultimate Guide - Beginner to Advanced  Master class\\Temp\\FileIO\\FileIO\\FileReader.cs",
+              "RelativeDocumentMoniker": "FileIO\\FileReader.cs",
+              "ToolTip": "D:\\Mohamed Taha\\Code\\C#\\C# 10  Ultimate Guide - Beginner to Advanced  Master class\\Temp\\FileIO\\FileIO\\FileReader.cs",
+              "RelativeToolTip": "FileIO\\FileReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:26:05.344Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

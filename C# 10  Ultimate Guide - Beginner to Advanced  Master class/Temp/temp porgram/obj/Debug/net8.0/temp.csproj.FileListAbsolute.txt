@@ -1,0 +1,45 @@
+D:\Mohamed Taha\Code\C#\temp\bin\Debug\net8.0\temp.exe
+D:\Mohamed Taha\Code\C#\temp\bin\Debug\net8.0\temp.deps.json
+D:\Mohamed Taha\Code\C#\temp\bin\Debug\net8.0\temp.runtimeconfig.json
+D:\Mohamed Taha\Code\C#\temp\bin\Debug\net8.0\temp.dll
+D:\Mohamed Taha\Code\C#\temp\bin\Debug\net8.0\temp.pdb
+D:\Mohamed Taha\Code\C#\temp\obj\Debug\net8.0\temp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Code\C#\temp\obj\Debug\net8.0\temp.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Code\C#\temp\obj\Debug\net8.0\temp.AssemblyInfo.cs
+D:\Mohamed Taha\Code\C#\temp\obj\Debug\net8.0\temp.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Code\C#\temp\obj\Debug\net8.0\temp.sourcelink.json
+D:\Mohamed Taha\Code\C#\temp\obj\Debug\net8.0\temp.dll
+D:\Mohamed Taha\Code\C#\temp\obj\Debug\net8.0\refint\temp.dll
+D:\Mohamed Taha\Code\C#\temp\obj\Debug\net8.0\temp.pdb
+D:\Mohamed Taha\Code\C#\temp\obj\Debug\net8.0\temp.genruntimeconfig.cache
+D:\Mohamed Taha\Code\C#\temp\obj\Debug\net8.0\ref\temp.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\temp\bin\Debug\net8.0\temp.exe
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\temp\bin\Debug\net8.0\temp.deps.json
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\temp\bin\Debug\net8.0\temp.runtimeconfig.json
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\temp\bin\Debug\net8.0\temp.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\temp\bin\Debug\net8.0\temp.pdb
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\temp\obj\Debug\net8.0\temp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\temp\obj\Debug\net8.0\temp.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\temp\obj\Debug\net8.0\temp.AssemblyInfo.cs
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\temp\obj\Debug\net8.0\temp.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\temp\obj\Debug\net8.0\temp.sourcelink.json
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\temp\obj\Debug\net8.0\temp.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\temp\obj\Debug\net8.0\refint\temp.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\temp\obj\Debug\net8.0\temp.pdb
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\temp\obj\Debug\net8.0\temp.genruntimeconfig.cache
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\temp\obj\Debug\net8.0\ref\temp.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\temp porgram\bin\Debug\net8.0\temp.exe
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\temp porgram\bin\Debug\net8.0\temp.deps.json
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\temp porgram\bin\Debug\net8.0\temp.runtimeconfig.json
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\temp porgram\bin\Debug\net8.0\temp.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\temp porgram\bin\Debug\net8.0\temp.pdb
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\temp porgram\obj\Debug\net8.0\temp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\temp porgram\obj\Debug\net8.0\temp.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\temp porgram\obj\Debug\net8.0\temp.AssemblyInfo.cs
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\temp porgram\obj\Debug\net8.0\temp.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\temp porgram\obj\Debug\net8.0\temp.sourcelink.json
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\temp porgram\obj\Debug\net8.0\temp.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\temp porgram\obj\Debug\net8.0\refint\temp.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\temp porgram\obj\Debug\net8.0\temp.pdb
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\temp porgram\obj\Debug\net8.0\temp.genruntimeconfig.cache
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\temp porgram\obj\Debug\net8.0\ref\temp.dll

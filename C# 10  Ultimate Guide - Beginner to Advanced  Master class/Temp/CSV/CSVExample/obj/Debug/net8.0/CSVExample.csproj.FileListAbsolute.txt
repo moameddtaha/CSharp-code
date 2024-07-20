@@ -1,0 +1,15 @@
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\CSV\CSVExample\bin\Debug\net8.0\CSVExample.exe
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\CSV\CSVExample\bin\Debug\net8.0\CSVExample.deps.json
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\CSV\CSVExample\bin\Debug\net8.0\CSVExample.runtimeconfig.json
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\CSV\CSVExample\bin\Debug\net8.0\CSVExample.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\CSV\CSVExample\bin\Debug\net8.0\CSVExample.pdb
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\CSV\CSVExample\obj\Debug\net8.0\CSVExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\CSV\CSVExample\obj\Debug\net8.0\CSVExample.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\CSV\CSVExample\obj\Debug\net8.0\CSVExample.AssemblyInfo.cs
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\CSV\CSVExample\obj\Debug\net8.0\CSVExample.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\CSV\CSVExample\obj\Debug\net8.0\CSVExample.sourcelink.json
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\CSV\CSVExample\obj\Debug\net8.0\CSVExample.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\CSV\CSVExample\obj\Debug\net8.0\refint\CSVExample.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\CSV\CSVExample\obj\Debug\net8.0\CSVExample.pdb
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\CSV\CSVExample\obj\Debug\net8.0\CSVExample.genruntimeconfig.cache
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\CSV\CSVExample\obj\Debug\net8.0\ref\CSVExample.dll

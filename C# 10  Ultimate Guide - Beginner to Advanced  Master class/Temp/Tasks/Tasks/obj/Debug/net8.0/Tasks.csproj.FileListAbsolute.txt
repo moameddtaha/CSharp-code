@@ -1,0 +1,15 @@
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\Tasks\Tasks\bin\Debug\net8.0\Tasks.exe
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\Tasks\Tasks\bin\Debug\net8.0\Tasks.deps.json
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\Tasks\Tasks\bin\Debug\net8.0\Tasks.runtimeconfig.json
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\Tasks\Tasks\bin\Debug\net8.0\Tasks.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\Tasks\Tasks\bin\Debug\net8.0\Tasks.pdb
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\Tasks\Tasks\obj\Debug\net8.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\Tasks\Tasks\obj\Debug\net8.0\Tasks.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\Tasks\Tasks\obj\Debug\net8.0\Tasks.AssemblyInfo.cs
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\Tasks\Tasks\obj\Debug\net8.0\Tasks.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\Tasks\Tasks\obj\Debug\net8.0\Tasks.sourcelink.json
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\Tasks\Tasks\obj\Debug\net8.0\Tasks.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\Tasks\Tasks\obj\Debug\net8.0\refint\Tasks.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\Tasks\Tasks\obj\Debug\net8.0\Tasks.pdb
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\Tasks\Tasks\obj\Debug\net8.0\Tasks.genruntimeconfig.cache
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Temp\Tasks\Tasks\obj\Debug\net8.0\ref\Tasks.dll

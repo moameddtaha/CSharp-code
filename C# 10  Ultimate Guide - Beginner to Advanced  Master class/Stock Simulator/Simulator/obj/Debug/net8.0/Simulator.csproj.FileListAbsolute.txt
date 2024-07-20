@@ -1,0 +1,30 @@
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Simulator using async &await & Tasks\Simulator\Simulator\bin\Debug\net8.0\Simulator.exe
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Simulator using async &await & Tasks\Simulator\Simulator\bin\Debug\net8.0\Simulator.deps.json
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Simulator using async &await & Tasks\Simulator\Simulator\bin\Debug\net8.0\Simulator.runtimeconfig.json
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Simulator using async &await & Tasks\Simulator\Simulator\bin\Debug\net8.0\Simulator.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Simulator using async &await & Tasks\Simulator\Simulator\bin\Debug\net8.0\Simulator.pdb
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Simulator using async &await & Tasks\Simulator\Simulator\obj\Debug\net8.0\Simulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Simulator using async &await & Tasks\Simulator\Simulator\obj\Debug\net8.0\Simulator.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Simulator using async &await & Tasks\Simulator\Simulator\obj\Debug\net8.0\Simulator.AssemblyInfo.cs
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Simulator using async &await & Tasks\Simulator\Simulator\obj\Debug\net8.0\Simulator.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Simulator using async &await & Tasks\Simulator\Simulator\obj\Debug\net8.0\Simulator.sourcelink.json
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Simulator using async &await & Tasks\Simulator\Simulator\obj\Debug\net8.0\Simulator.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Simulator using async &await & Tasks\Simulator\Simulator\obj\Debug\net8.0\refint\Simulator.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Simulator using async &await & Tasks\Simulator\Simulator\obj\Debug\net8.0\Simulator.pdb
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Simulator using async &await & Tasks\Simulator\Simulator\obj\Debug\net8.0\Simulator.genruntimeconfig.cache
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Simulator using async &await & Tasks\Simulator\Simulator\obj\Debug\net8.0\ref\Simulator.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Stock Simulator\Simulator\bin\Debug\net8.0\Simulator.exe
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Stock Simulator\Simulator\bin\Debug\net8.0\Simulator.deps.json
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Stock Simulator\Simulator\bin\Debug\net8.0\Simulator.runtimeconfig.json
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Stock Simulator\Simulator\bin\Debug\net8.0\Simulator.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Stock Simulator\Simulator\bin\Debug\net8.0\Simulator.pdb
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Stock Simulator\Simulator\obj\Debug\net8.0\Simulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Stock Simulator\Simulator\obj\Debug\net8.0\Simulator.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Stock Simulator\Simulator\obj\Debug\net8.0\Simulator.AssemblyInfo.cs
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Stock Simulator\Simulator\obj\Debug\net8.0\Simulator.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Stock Simulator\Simulator\obj\Debug\net8.0\Simulator.sourcelink.json
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Stock Simulator\Simulator\obj\Debug\net8.0\Simulator.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Stock Simulator\Simulator\obj\Debug\net8.0\refint\Simulator.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Stock Simulator\Simulator\obj\Debug\net8.0\Simulator.pdb
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Stock Simulator\Simulator\obj\Debug\net8.0\Simulator.genruntimeconfig.cache
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Stock Simulator\Simulator\obj\Debug\net8.0\ref\Simulator.dll

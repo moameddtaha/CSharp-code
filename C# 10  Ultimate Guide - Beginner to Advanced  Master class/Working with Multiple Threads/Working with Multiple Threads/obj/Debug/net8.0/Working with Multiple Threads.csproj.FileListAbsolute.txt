@@ -1,0 +1,15 @@
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Working with Multiple Threads\Working with Multiple Threads\obj\Debug\net8.0\Working with Multiple Threads.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Working with Multiple Threads\Working with Multiple Threads\obj\Debug\net8.0\Working with Multiple Threads.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Working with Multiple Threads\Working with Multiple Threads\obj\Debug\net8.0\Working with Multiple Threads.AssemblyInfo.cs
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Working with Multiple Threads\Working with Multiple Threads\obj\Debug\net8.0\Working with Multiple Threads.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Working with Multiple Threads\Working with Multiple Threads\obj\Debug\net8.0\Working with Multiple Threads.sourcelink.json
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Working with Multiple Threads\Working with Multiple Threads\bin\Debug\net8.0\Working with Multiple Threads.exe
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Working with Multiple Threads\Working with Multiple Threads\bin\Debug\net8.0\Working with Multiple Threads.deps.json
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Working with Multiple Threads\Working with Multiple Threads\bin\Debug\net8.0\Working with Multiple Threads.runtimeconfig.json
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Working with Multiple Threads\Working with Multiple Threads\bin\Debug\net8.0\Working with Multiple Threads.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Working with Multiple Threads\Working with Multiple Threads\bin\Debug\net8.0\Working with Multiple Threads.pdb
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Working with Multiple Threads\Working with Multiple Threads\obj\Debug\net8.0\Working with Multiple Threads.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Working with Multiple Threads\Working with Multiple Threads\obj\Debug\net8.0\refint\Working with Multiple Threads.dll
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Working with Multiple Threads\Working with Multiple Threads\obj\Debug\net8.0\Working with Multiple Threads.pdb
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Working with Multiple Threads\Working with Multiple Threads\obj\Debug\net8.0\Working with Multiple Threads.genruntimeconfig.cache
+D:\Mohamed Taha\Code\C#\C# 10  Ultimate Guide - Beginner to Advanced  Master class\Working with Multiple Threads\Working with Multiple Threads\obj\Debug\net8.0\ref\Working with Multiple Threads.dll
